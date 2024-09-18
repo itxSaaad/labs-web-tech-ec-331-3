@@ -1,6 +1,6 @@
 # Labs - Web Technologies | EC-331-3
 
-> This Repository is for the Class Activities, Exercises and Projects of Web Technologies
+> This Repository is for the Class Activities, Tasks and Projects of Web Technologies Course EC-331-3 at University of the Punjab, Gujranwala Campus.
 
 ## List of Activities
 
@@ -43,4 +43,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Give ⭐️ if you like this project!
 
-<a href="https://www.buymeacoffee.com/itxSaaad"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+[![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/itxSaaad)
