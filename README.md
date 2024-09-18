@@ -2,18 +2,6 @@
 
 > This Repository is for the Class Activities, Tasks and Projects of Web Technologies Course EC-331-3 at University of the Punjab, Gujranwala Campus.
 
-## List of Activities
-
-1. [**Activity 01** - NS Lookup](./Activities/Activity%2001%20-%20NS%20Lookup/)
-
-## List of Class Tasks
-
-1. [**Task 01** - Creating a Base to Learn HTML](./Class%20Tasks/Task%2001%20-%20Creating%20a%20Base%20to%20Learn%20HTML/)
-
-## List of Projects
-
-1. [**Project 01** - Personal Portfolio](./Projects/Project%2001%20-%20Personal%20Portfolio/)
-
 ## Contributing
 
 Contributions are what make the open-source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -43,8 +31,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Give ⭐️ if you like this project!
 
-```markdown
-<a href="https://www.buymeacoffee.com/itxSaaad" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a coffee" style="height: 40px; width: 140px;" >
+<a href="https://www.buymeacoffee.com/itxSaaad">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a coffee"
+    height="50" width="210">
 </a>
-```
