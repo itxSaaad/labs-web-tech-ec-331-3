@@ -43,4 +43,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Give ⭐️ if you like this project!
 
-[![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/itxSaaad)
+```markdown
+<a href="https://www.buymeacoffee.com/itxSaaad" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a coffee" style="height: 40px; width: 140px;" >
+</a>
+```
