@@ -114,7 +114,7 @@
               <li>
                 <a href="../campus-life/events.html">Events</a>
               </li>
-              <li><a href="../campus-life/gallery.html">Gallery</a></li>
+              <li><a href="../campus-life/gallery.php">Gallery</a></li>
             </ul>
           </li>
           <li><a href="../notices.html">Notices</a></li>
@@ -147,6 +147,7 @@
         <div class="container">
           <ol>
             <li><a href="../index.html">Home</a></li>
+            <li class="current">Academics</li>
             <li class="current">Departments</li>
           </ol>
         </div>
@@ -249,7 +250,7 @@
             <li><a href="../academics/programs.php">Programs</a></li>
             <li><a href="../academics/faculty.php">Faculty</a></li>
             <li><a href="../campus-life/events.html">Events</a></li>
-            <li><a href="../campus-life/gallery.html">Gallery</a></li>
+            <li><a href="../campus-life/gallery.php">Gallery</a></li>
           </ul>
         </div>
       </div>
